@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/Talha/OneDrive/Desktop/lab 5 oop sir shaban/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\lab_6.dir\\main.cpp.obj -c \"C:\\Users\\Talha\\OneDrive\\Desktop\\lab 5 oop sir shaban\\main.cpp\"",
+  "file": "C:/Users/Talha/OneDrive/Desktop/lab 5 oop sir shaban/main.cpp",
+  "output": "C:/Users/Talha/OneDrive/Desktop/lab 5 oop sir shaban/cmake-build-debug/CMakeFiles/lab_6.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Talha/OneDrive/Desktop/lab 5 oop sir shaban/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\lab_6.dir\\task5.cpp.obj -c \"C:\\Users\\Talha\\OneDrive\\Desktop\\lab 5 oop sir shaban\\task5.cpp\"",
+  "file": "C:/Users/Talha/OneDrive/Desktop/lab 5 oop sir shaban/task5.cpp",
+  "output": "C:/Users/Talha/OneDrive/Desktop/lab 5 oop sir shaban/cmake-build-debug/CMakeFiles/lab_6.dir/task5.cpp.obj"
+}
+]
